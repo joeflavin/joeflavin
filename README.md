@@ -1,5 +1,9 @@
-### Hi there 👋
+### Greetings! Welcome to my Github
 
+I am currently learning Python, Java, JavaScript, HTML5+CSS, Bash ....
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeflavin&hide=jupyter%20notebook&theme=dracula&layout=compact)](https://github.com/joeflavin/github-readme-stats)
 <!--
 **joeflavin/joeflavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
